@@ -35,9 +35,6 @@ body{
     justify-content:space-between ;
     border-top:11px solid #bfbfbf;
 }
-.content-box.result details{
+.content-box .result-details{
     display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width:calc(100% - 140px);
 }
